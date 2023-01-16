@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "753184623383",
+    "project_id": "simobile-be0db",
+    "storage_bucket": "simobile-be0db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753184623383:android:1273c7437b6ecdbd0a4552",
+        "android_client_info": {
+          "package_name": "com.mozha.uasmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753184623383-9t68n7dtca9g6830sb8jl1vb0kb9fq4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaHGbtRhAQaCtogLCmo3KmFSBg3x76hww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753184623383-9t68n7dtca9g6830sb8jl1vb0kb9fq4a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
